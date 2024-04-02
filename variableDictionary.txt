@@ -1,0 +1,5 @@
+1 class label and 1024 bit fingerprints for the given chemical structure: 
+
+1) class label on BBB penetration: 1 = Yes, 0 = No
+2) - 1025): D_1, D_2,..., D1024: binary variables for the extended-connectivity fingerprints of the chemical compound.
+ 
